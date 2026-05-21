@@ -8,7 +8,7 @@ I am a Ph.D. candidate at the University of California, Santa Cruz, where my res
 
 ## Research Interests
 
-- **Geochronology & Geochemistry:** U-Th disequilibrium dating, δ234U
+- **Geochronology & Geochemistry:** U-Th disequilibrium dating, δ234U, subglacial precipitates, fossil corals
 - **Antarctic Paleoclimate:** ice sheet paleohydrology, grounding line history, ocean forcing of the Antarctic ice sheet
 
 ## News
