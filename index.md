@@ -4,12 +4,12 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Ph.D. candidate at the University of California, Santa Cruz, where my research focuses on geochronology and geochemistry of mineral precpitates in polar environments. Much of my work focuses on using subglacial chemical precipitates as records of ice sheet paleohydrology, and I also work with fossil corals as recorders of ice sheet and grounding line processes.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Geochronology & Geochemistry:** U-Th disequilibrium dating, δ234U
+- **Antarctic Paleoclimate:** ice sheet paleohydrology, grounding line history, ocean forcing of the Antarctic ice sheet
 
 ## News
 
