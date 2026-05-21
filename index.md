@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-## About Me
+## About Me [Note: This website is still under construction!]
 
 I am a Ph.D. candidate at the University of California, Santa Cruz, where my research focuses on geochronology and geochemistry of mineral precpitates in polar environments. Much of my work focuses on using subglacial chemical precipitates as records of ice sheet paleohydrology, and I also work with fossil corals as recorders of ice sheet and grounding line processes.
 
