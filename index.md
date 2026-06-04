@@ -20,4 +20,3 @@ I am a Ph.D. candidate at the University of California, Santa Cruz, where my res
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
